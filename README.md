@@ -6,3 +6,5 @@
 * Output: 
   * xlsx file containing negative points declared for each students
   * Seprated folders for each question, containing students' solutions
+
+#### For privacy concerns, the input and output files containing students assignments have been removed.
